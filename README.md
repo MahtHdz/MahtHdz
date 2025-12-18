@@ -1,17 +1,19 @@
-Software developer with 6+ years of experience. I focus on creating efficient and scalable solutions to meet end-user needs. I work with a variety of programming languages, such as C, C++, C#, Java, JavaScript, TypeScript, and Python 🐍, and I'm also proficient in modern technologies like Docker 🐳, GraphQL 🔍, Amazon AWS 🌩️, REST API 📡 , and NodeJS 🚀.
+🚀 Full-Stack Software Developer with 7+ years of experience, building scalable and efficient solutions across backend, frontend, and infrastructure.
+💻 I work with Java (Spring Boot), .NET, Node.js / NestJS, and modern frontend stacks like React, Vue, and Vite, using REST and GraphQL APIs.
+☁️ Background in SysAdmin & DevOps, experienced with Docker, AWS, CI/CD, and production systems focused on reliability, performance, and security.
 
 ```plaintext
  ___________________
- | _______________ |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- |_________________|
-     _[_______]_
- ___[___________]___
-|         [_____] []|
+ | _______________ |   ███▄ ▄███▓ ▄▄▄       ██░ ██ ▄▄▄█████▓    ██░ ██ ▓█████▄ ▒███████▒
+ | |XXXXXXXXXXXXX| |  ▓██▒▀█▀ ██▒▒████▄    ▓██░ ██▒▓  ██▒ ▓▒   ▓██░ ██▒▒██▀ ██▌▒ ▒ ▒ ▄▀░
+ | |XXXXXXXXXXXXX| |  ▓██    ▓██░▒██  ▀█▄  ▒██▀▀██░▒ ▓██░ ▒░   ▒██▀▀██░░██   █▌░ ▒ ▄▀▒░
+ | |XXXXXXXXXXXXX| |  ▒██    ▒██ ░██▄▄▄▄██ ░▓█ ░██ ░ ▓██▓ ░    ░▓█ ░██ ░▓█▄   ▌  ▄▀▒   ░
+ | |XXXXXXXXXXXXX| |  ▒██▒   ░██▒ ▓█   ▓██▒░▓█▒░██▓  ▒██▒ ░    ░▓█▒░██▓░▒████▓ ▒███████▒
+ | |XXXXXXXXXXXXX| |  ░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒ ░░▒░▒  ▒ ░░       ▒ ░░▒░▒ ▒▒▓  ▒ ░▒▒ ▓░▒░▒
+ |_________________|  ░  ░      ░  ▒   ▒▒ ░ ▒ ░▒░ ░    ░        ▒ ░▒░ ░ ░ ▒  ▒ ░░▒ ▒ ░ ▒
+     _[_______]_      ░      ░     ░   ▒    ░  ░░ ░  ░          ░  ░░ ░ ░ ░  ░ ░ ░ ░ ░ ░
+ ___[___________]___           ░         ░  ░ ░  ░  ░             ░  ░  ░   ░      ░ ░
+|         [_____] []|                                                    ░      ░
 |         [_____] []|
 L___________________J
 ```
